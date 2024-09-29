@@ -52,6 +52,13 @@ git clone https://github.com/CHOUAY15/Ex3TP1Interfacesgraphiques.git
 3. Select an emulator or connect an Android device
 4. Click the "Run" button or press Shift + F10
 
+watch demo video :
+
+
+https://github.com/user-attachments/assets/27685c4f-fc54-4603-869d-ef29581880aa
+
+
+
 ## Contributors
 
 - CHOUAY Walid ([GitHub](https://github.com/CHOUAY15))
